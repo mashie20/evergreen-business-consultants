@@ -142,7 +142,7 @@
   // Accountless fallback for public deploys (e.g. GitHub Pages): the visitor's
   // browser cannot reach this machine's localhost pipeline, so on failure we
   // pre-fill the visitor's own mail client instead.
-  const CONTACT_EMAIL = "mashie20@gmail.com";
+  const CONTACT_EMAIL = "Julius@evergreenconsultants.site";
 
   const FIELD_LABELS = {
     name: "Name",
